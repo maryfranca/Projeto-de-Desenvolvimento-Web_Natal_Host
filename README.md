@@ -8,5 +8,5 @@ e-commerce de produtos natalinos
 -bootstrap react
 -css
 
-## Depedências
--api interno e extena
+## Funcionalidade
+-api interno e exteno
