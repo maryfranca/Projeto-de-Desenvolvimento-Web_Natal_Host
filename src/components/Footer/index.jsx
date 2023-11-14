@@ -66,13 +66,13 @@ function Footer() {
             <h4>Redes Sociais</h4>
             <ul className="social-links">
             <a href="https://www.instagram.com/">
-                <img src="instagram.png" alt="Instagram" />
+                <img src="/instagram.png" alt="Instagram" />
               </a>
               <a href="https://github.com/">
-                <img src="github.png" alt="GitHub" />
+                <img src="/github.png" alt="GitHub" />
               </a> 
               <a href="https://br.pinterest.com/">
-                <img src="pinterest.png" alt="Pinterest" />
+                <img src="/pinterest.png" alt="Pinterest" />
               </a>
             </ul>
           </div>

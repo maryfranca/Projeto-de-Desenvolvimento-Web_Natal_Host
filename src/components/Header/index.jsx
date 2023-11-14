@@ -42,7 +42,7 @@ function Header() {
               <Nav.Link href="/decoracao">Decoração</Nav.Link>
               <Nav.Link href="/iluminacao">Iluminação</Nav.Link>
               <Nav.Link href="/enfeites">Enfeites Natalinos</Nav.Link>
-              <Nav.Link href="/carrinho">Carrinho <img src="car.png" />
+              <Nav.Link href="/carrinho"><img src="/car.png" alt="Carrinho" />
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
