@@ -1,0 +1,184 @@
+{
+  "DecoracaoBolas": [
+    {
+      "id": 4,
+      "nome": "Bolas Douradas",
+      "valor": 16,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/2A70A7D/9-bolas-natal-lindas-6cm-texturas-arabescos-lisas-e-foscas-bolas-arvore.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Bolas de Prata ",
+      "valor": 15,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/2A70B46/9-bolas-natal-grafite-6cm-arabescos-texturas-lisas-e-foscas-decoracao-natal.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Bola de Natal dos Desejos",
+      "valor": 18,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/34CAAEE/bola-de-natal-dos-desejos-enfeite-natal.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Bolas de Natal em patchwork",
+      "valor": 25,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/4C2C156/bolas-de-natal-em-patchwork.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Bola de Natal de Crochê ",
+      "valor": 25,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/3E50357/bolas-de-natal-de-croche-g-arvore-de-natal.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Bola de Natal com Pérolas e Nome Personalizada",
+      "valor": 15,
+      "detalhes": "Pacote com 10 bolas de decoração",
+      "img": "https://img.elo7.com.br/product/zoom/45AA996/bola-natalina-com-perolas-e-nome-personalizada-presente-de-natal.jpg"
+    }
+  ],
+  "DecoracaoGuirlandas": [
+    {
+      "id": 7,
+      "nome": "Guirlanda Natalina",
+      "valor": 28,
+      "detalhes": "Guirlanda Natalina",
+      "img": "https://img.elo7.com.br/product/zoom/22F4765/guirlanda-natalina-guirlanda-natalina.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Guirlanda de Porta e Parede com Flores",
+      "valor": 25,
+      "detalhes": "Guirlandas decorativas para festas",
+      "img": "https://img.elo7.com.br/product/zoom/43883FD/guirlanda-de-porta-com-flores-parede.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Guirlanda Natal Glamour Rosa",
+      "valor": 42,
+      "detalhes": "Guirlanda Natal Glamour Rosa",
+      "img": "https://img.elo7.com.br/product/zoom/4C5F6E4/guirlanda-natal-glamour-rosa-60cm-guirlanda-natalina-grande.jpg"
+    }
+  ],
+  "DecoracaoPresepio": [
+    {
+      "id": 8,
+      "nome": "Presépio Polonês 20cm em Gesso Cru",
+      "valor": 130,
+      "detalhes": "Presépio Rustico",
+      "img": "https://img.elo7.com.br/product/zoom/2A9BA0A/presepio-polones-20cm-em-gesso-cru-para-artesanato-gesso-cru.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Bonecos Mini Presépio Natal Amigurumi",
+      "valor": 215,
+      "detalhes": "Presépio de Encaixe",
+      "img": "https://img.elo7.com.br/product/zoom/454DA04/bonecos-mini-presepio-natal-amigurumi-set-1-natalino.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Mini Presépio Rústico- Natal",
+      "valor": 179,
+      "detalhes": "Mini Presépio Rústico- Natal",
+      "img": "https://img.elo7.com.br/product/zoom/3E98588/mini-presepio-rustico.jpg"
+    }
+  ],
+  "EnfeitesArtesanato": [
+    {
+      "id": 8,
+      "nome": "Pingentes Natalinos de Estrela",
+      "valor": 286,
+      "detalhes": "Presepio de Natal para decoração",
+      "img": "https://img.elo7.com.br/product/zoom/4A85B4F/pingentes-natalinos-de-estrela-estrela.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Porta Guardanapo de Natal",
+      "valor": 35,
+      "detalhes": "Presepio de Natal para decoração",
+      "img": "https://img.elo7.com.br/product/zoom/5E43B8/porta-guardanapo-natal.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Souplast Crochê Natal",
+      "valor": 43,
+      "detalhes": "Presepio de Natal para decoração",
+      "img": "https://img.elo7.com.br/product/zoom/353DD36/souplast-croche-natal-souplast.jpg"
+    }
+  ],
+  "EnfeitesBoneco": [
+    {
+      "id": 8,
+      "nome": "Boneco de Neve em biscuit",
+      "valor": 48,
+      "detalhes": "Boneco de Neve em biscuit",
+      "img": "https://img.elo7.com.br/product/zoom/C12E3/enfeite-de-boneco-de-neve-em-biscuit.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Duende De Natal Menino",
+      "valor": 96,
+      "detalhes": "Boneco de Neve em biscuit",
+      "img": "https://img.elo7.com.br/product/zoom/3489478/duende-de-natal-elf.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Aí o seu pokemon de Natal",
+      "valor": 159,
+      "detalhes": "Boneco de Neve em biscuit",
+      "img": "https://www.pokemoncenter.com/images/DAMRoot/Full-Size/10000/P4817_710-03698_05.jpg"
+    }
+  ],
+  "EnfeitesMeias": [
+    {
+      "id": 8,
+      "nome": "Meia natalina Papai Noel em feltro",
+      "valor": 45,
+      "detalhes": "Meia natalina Papai Noel em feltro",
+      "img": "https://img.elo7.com.br/product/zoom/F41C8B/meia-natalina-papai-noel-em-feltro-tecido.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Meia/bota Porta Doce de Natal",
+      "valor": 32,
+      "detalhes": "Meia natalina Papai Noel em feltro",
+      "img": "https://img.elo7.com.br/product/zoom/4A7E184/meia-bota-porta-doce-de-natal-meias-de-natal.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Meia Natal Personalizada",
+      "valor": 110,
+      "detalhes": "Meia natalina Papai Noel em feltro",
+      "img": "https://img.elo7.com.br/product/zoom/3CA62ED/meia-natal-personalizada-presente-pra-mae.jpg"
+    }
+  ],
+  "IluminacaoPisca": [
+    {
+      "id": 8,
+      "nome": "Luminária Luz De Fada Organza Pompom Nude Bivolto",
+      "valor": 79,
+      "detalhes": "Luminária Luz De Fada Organza Pompom Nude Bivolto",
+      "img": "https://img.elo7.com.br/product/zoom/11626D6/luz-de-fada-organza-pompom-champagne-50-lampadas-de-led.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Kit 3 Pisca De Bolinha 40 Leds branco quente 4 Funções 220v",
+      "valor": 145,
+      "detalhes": "Presepio de Natal para decoração",
+      "img": "https://img.elo7.com.br/product/zoom/273940B/kit-3-pisca-de-bolinha-40-leds-branco-quente-4-funcoes-220v-bolinha.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Cupula Redoma a Bela e a Fera com Pisca Pisca Led",
+      "valor": 80,
+      "detalhes": "Presepio de Natal para decoração",
+      "img": "https://img.elo7.com.br/product/zoom/420F7D2/cupula-redoma-a-bela-e-a-fera-com-pisca-pisca-led-casamento.jpg"
+    }
+  ]
+}
